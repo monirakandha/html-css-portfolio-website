@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+}
+h1{
+    font-size: 60px;
+    line-height: 30px;
+    font-family:Yeseva One;
+}
+p{
+    font-family: poppins;
+}
+h1 span{
+    color:palegreen
+}
+.hero-area {
+  display: flex;
+}
+.half-width {
+  width: 50%;
+  margin-left: 5%;
+}
+.half-width img {
+  width: 400px;
+}
+.hero-heading {
+    border-left: 3px solid olivedrab;
+    padding-left:30px;
+}
+
+a.website-button {
+    text-decoration: none;
+    background-color: #097dea;
+    color: white;
+    padding: 15px 40px;
+    border-radius: 5px;
+    font-family: 'Poppins';
+}
+.half-width p{
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.mission-date h2 {
+    text-align: center;
+    font-family: 'Poppins';
+    font-size: 48px;
+}
+h2 span{
+    color:palegreen
+}
+.mission-details{
+  display: flex;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.third-width{
+  width:33%;
+}
+.third-width img{
+  width: 100%;
+}
