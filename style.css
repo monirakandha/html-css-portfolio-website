@@ -8,6 +8,8 @@ h1{
 }
 p{
     font-family: poppins;
+    padding-bottom: 30px;
+    padding-top: 30px;
 }
 h1 span{
     color:palegreen
@@ -35,11 +37,7 @@ a.website-button {
     border-radius: 5px;
     font-family: 'Poppins';
 }
-.half-width p{
-    padding-bottom: 30px;
-    padding-top: 30px;
-}
-.mission-date h2 {
+h2 {
     text-align: center;
     font-family: 'Poppins';
     font-size: 48px;
