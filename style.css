@@ -2,7 +2,18 @@ body {
   margin: 0;
 }
 
-body, h1, h2, h3, h4, h5, h6, p , a , button , input, label{
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+a,
+button,
+input,
+label {
   font-family: poppins;
 }
 h1 {
@@ -22,7 +33,7 @@ h1 span {
 }
 section {
   display: flex;
-  margin:10%;
+  margin: 10%;
 }
 
 .half-width {
@@ -106,7 +117,7 @@ section.mission-are {
   padding-top: 0px;
 }
 
-.contat-form input{
+.contat-form input {
   width: 100%;
   height: 40px;
 }
@@ -129,26 +140,25 @@ button.submit-button {
 }
 .information-data {
   margin-left: 10%;
+  margin-top: 15%;
 }
 .contat-form {
   margin-right: 5%;
 }
 footer h3 span {
-
   color: #ff0077;
 }
-footer{
-  background-color: #0B0D17;
+footer {
+  background-color: #0b0d17;
   padding: 40px;
-
 }
-footer h3{
+footer h3 {
   text-align: center;
-  color:white;
+  color: white;
   padding: 0px;
 }
-footer p{
+footer p {
   text-align: center;
-  color:white;
+  color: white;
   padding: 0px;
 }
