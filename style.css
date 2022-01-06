@@ -1,58 +1,88 @@
 body {
   margin: 0;
 }
-h1{
-    font-size: 60px;
-    line-height: 30px;
-    font-family:Yeseva One;
+h1 {
+  font-size: 60px;
+  line-height: 30px;
+  font-family: Yeseva One;
 }
-p{
-    font-family: poppins;
-    padding-bottom: 30px;
-    padding-top: 30px;
+p {
+  font-family: poppins;
+  padding-bottom: 30px;
+  padding-top: 30px;
 }
-h1 span{
-    color:palegreen
+h1 span {
+  color: palegreen;
 }
-.hero-area {
+section {
   display: flex;
+  margin-left: 10%;
+  margin-right: 10%;
 }
+
 .half-width {
   width: 50%;
-  margin-left: 5%;
 }
 .half-width img {
   width: 400px;
 }
 .hero-heading {
-    border-left: 3px solid olivedrab;
-    padding-left:30px;
+  border-left: 3px solid olivedrab;
+  padding-left: 30px;
+}
+.hero-area {
+  padding-bottom: 100px;
 }
 
 a.website-button {
-    text-decoration: none;
-    background-color: #097dea;
-    color: white;
-    padding: 15px 40px;
-    border-radius: 5px;
-    font-family: 'Poppins';
+  text-decoration: none;
+  background-color: #097dea;
+  color: white;
+  padding: 15px 40px;
+  border-radius: 5px;
+  font-family: "Poppins";
 }
 h2 {
-    text-align: center;
-    font-family: 'Poppins';
-    font-size: 48px;
+  text-align: center;
+  font-family: "Poppins";
+  font-size: 48px;
 }
-h2 span{
-    color:palegreen
+h2 span {
+  color: palegreen;
 }
-.mission-details{
+.third-width {
+  width: 33%;
+}
+
+.one-fourth-width {
+  width: 60%;
+  padding-right: 50px;
+}
+.one-third-width img {
+  width: 90%;
+}
+
+.one-third-width {
+  width: 40%;
+}
+.mission-details img {
+  width: 40%;
+}
+
+.mission-details {
   display: flex;
-  margin-left: 20%;
-  margin-right: 20%;
 }
-.third-width{
-  width:33%;
+.mission-details h4 {
+  font-family: "Poppins";
+  font-size: 20px;
 }
-.third-width img{
-  width: 100%;
+
+.third-width {
+  margin: 10px;
+  padding: 30px;
+  border-radius: 10px;
+}
+h3 {
+  font-size: 36px;
+  font-family: poppins;
 }
